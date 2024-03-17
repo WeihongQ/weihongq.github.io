@@ -2,7 +2,8 @@
   type: time_table
   contents:
     - title: Ph.D. in Political Science
-      description: <strong> M.S. in Data Science </strong>
+      description: 
+        - <strong> M.S. in Data Science </strong>
       institution: University of Rochester, Rochester, NY, United States
       logo: UR.webp
       year: Aug 2019 - Present
