@@ -1,26 +1,51 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
+    - title: Ph.D. in Political Science
       institution: University of Rochester, Rochester, NY, United States
       logo: UR.webp
-      year: Aug 2018 - Present
+      year: Aug 2019 - Present
+      description:
+        - <span>Dissertation Committee:</span> <a href="https://www.sas.rochester.edu/psc/stone/"> Randall Stone (Chair) </a>, <a href="http://www.rochester.edu/college/faculty/alexander_lee/">Alexander Lee</a>,<a href="https://www.andersonfrey.com/"> Anderson Frey<\a>.
+
+    - title: M.S. in Data Science
+      institution: University of Rochester, Rochester, NY, United States
+      logo: UR.webp
+      year: Aug 2022 - May 2024
       description:
         - <span>Advisor:</span> <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
+
+    - title: M.A. in Public Policy Studies
+      institution: University of Chicago, Chicago, IL, United States
+      logo: UC.png
+      year: Aug 2017 - Dec 2018
+      description:
+        - <span>Advisor:</span> <a href="https://www.austinlwright.com/home">Austin Wright</a>.
+
+    - title: B.A. in Economics
+      institution: Wuhan University, China
+      logo: WHU.png
+      year: Aug 2013 - Jun 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
-      logo: meta.png
-      institution: Facebook AI Research (FAIR), Menlo Park, CA
-      year: Jan 2022 - Aug 2022
+    - title: Data Scientist Intern
+      logo: studiox.jpeg
+      institution: Mary Ann Mavrinac Studio X
+      year: May 2023 - Jul 2023
       description:
-        - <span>Mentor:</span> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
-        - <span>Topic:</span> Text To Video Generation
+        - <span>Mentor:</span> Emily Sherwood and Meaghan Moody
+
+    - title: Research Fellow
+      logo: studiox.jpeg
+      institution: Mary Ann Mavrinac Studio X
+      year: Aug 2018 - Mar 2019
+      description:
+        - <span>Mentor:</span> Damien Ma
 
 - title: Services
   type: list
   contents:
-    - <strong>Journal Reviewer:</strong>
+    - <strong>Journal Reviewer:</strong> Political Analysis
     - <strong>Conference Reviewer:</strong>
