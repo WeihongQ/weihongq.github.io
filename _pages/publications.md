@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 
-years: [2023]
+years: [2024, 2023]
 nav: true
 nav_order: 2
 ---
@@ -12,9 +12,7 @@ nav_order: 2
 
 #### Pre-prints and Working Papers
 
-- Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication. Hanjia Lyu, Weihong Qi, Zhongyu Wei, Jiebo Luo. [[arxiv](https://arxiv.org/pdf/2401.08212)]
-
-- Excitements and Concerns in the Post-ChatGpt Era: Deciphering Public Perception of AI through Social Media Analysis. Weihong Qi, Jinsheng Pan, Hanjia Lyu, Jiebo Luo. [[arxiv](https://arxiv.org/pdf/2307.05809.pdf?trk=public_post_comment-text)]
+- Excitements and Concerns in the Post-ChatGPT Era: Deciphering Public Perception of AI through Social Media Analysis. Weihong Qi, Jinsheng Pan, Hanjia Lyu, Jiebo Luo. [[arxiv](https://arxiv.org/pdf/2307.05809.pdf?trk=public_post_comment-text)]
 
 - Beyond Sentiment: Leveraging Topic Metrics for Political Stance Classification. Weihong Qi. [[arxiv](https://arxiv.org/pdf/2310.15429)]
 
