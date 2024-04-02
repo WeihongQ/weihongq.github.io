@@ -3,11 +3,14 @@
   contents:
     - title: Ph.D. in Informatics
       institution: Indiana University, Bloomington, IN
+      logo: IU.svg
+      year: Aug 2024 - Present
+      description: <span>Advisors:</span>  <a href="https://jisun.me/">Jisun An</a> and <a href="https://haewoon.io/">Haewoon Kwak</a>.
 
     - title: Ph.D. in Political Science
       institution: University of Rochester, Rochester, NY
       logo: UR.webp
-      year: Aug 2019 - Present
+      year: Aug 2019 - Jul 2024
       description:
         - Concurrent <strong> M.S. in Data Science </strong>
         - <span>Dissertation Committee:</span> <a href="https://www.sas.rochester.edu/psc/stone/"> Randall Stone</a> (Chair), <a href="http://www.rochester.edu/college/faculty/alexander_lee/">Alexander Lee</a>, <a href="https://www.andersonfrey.com/"> Anderson Frey</a>.
