@@ -1,8 +1,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Informatics
+      institution: Indiana University, Bloomington, IN
+
     - title: Ph.D. in Political Science
-      institution: University of Rochester, Rochester, NY, United States
+      institution: University of Rochester, Rochester, NY
       logo: UR.webp
       year: Aug 2019 - Present
       description:
@@ -11,7 +14,7 @@
         - <span>Master Degree Advisor:</span> <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: M.A. in Public Policy Studies
-      institution: University of Chicago, Chicago, IL, United States
+      institution: University of Chicago, Chicago, IL
       logo: uchicago.jpeg
       year: Aug 2017 - Dec 2018
       description:
