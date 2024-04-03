@@ -9,8 +9,8 @@ profile:
   image: weihong_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Address Line 1 </p>
-    <p> Address Line 2 </p>
+    <p> 1015 E 11th St </p>
+    <p> Bloomington, IN 47408 </p>
 
 
 news: true  # includes a list of news items
