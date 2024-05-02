@@ -47,8 +47,10 @@
 
 - title: Honors and Awards
   type: time_table
-  year: 2024
-  description: Travel Award, 41st Annual Meeting of the Society for Political Methodology
+  contents:
+    - year: 2024
+      items:
+        - Travel Award, 41st Annual Meeting of the Society for Political Methodology
 
 - title: Services
   type: list
