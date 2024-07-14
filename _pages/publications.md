@@ -14,8 +14,6 @@ nav_order: 2
 
 - Revisiting the Resource Curse in the Age of Energy Transition: Cobalt Reserves and Conflict in Africa. Weihong Qi. [[arxiv](https://arxiv.org/abs/2404.17713)]
 
-- Excitements and Concerns in the Post-ChatGPT Era: Deciphering Public Perception of AI through Social Media Analysis. Weihong Qi, Jinsheng Pan, Hanjia Lyu, Jiebo Luo. (Revise & Resubmit) [[arxiv](https://arxiv.org/pdf/2307.05809.pdf?trk=public_post_comment-text)]
-
 - Beyond Sentiment: Leveraging Topic Metrics for Political Stance Classification. Weihong Qi. [[arxiv](https://arxiv.org/pdf/2310.15429)]
 
 - State Mobilization and Political Attitudes: The Legacy of Maoist Rural Resettlement in Contemporary China. Alexander Lee, Weihong Qi, Dehua Sun. (Revise & Resubmit) [[paper](https://www.rochester.edu/college/faculty/alexander_lee/wp-content/uploads/2021/11/draft_0520-public.pdf)]
