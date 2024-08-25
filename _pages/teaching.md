@@ -8,13 +8,13 @@ nav_order: 3
 ---
 
 ###  Indiana University
-<div style="overflow: auto; margin-bottom: 30px;">
-  <div style="float: left; width: 35%; text-align: left;">
+<div style="overflow: auto; margin-bottom: 30px; display: flex;">
+  <div style="width: 35%; text-align: left;">
     <img src="/assets/img/teaching/info-369.jpg" alt="Figure" style="max-width: 40%; height: auto;">
   </div>
-  
-  <div style="float: right; width: 60%; display: flex; align-items: center;">
-    <div style="border-left: 2px solid grey; height: 45%; margin-right: 10px;"></div>
+
+  <div style="width: 60%; display: flex; align-items: center;">
+    <div style="border-left: 2px solid grey; height: 45vh; margin-right: 10px;"></div>
     <div>
       <strong>INFO-369 Performance Analytics</strong> <br/>
       Undergraduate, 2024 Fall <br/>
