@@ -28,7 +28,7 @@ nav_order: 3
     <img src="/assets/img/teaching/econ-288.jpg" alt="Figure" style="max-width: 40%; height: auto;">
   </div>
   
-  <div style="float: left; width: 30%;">
+  <div style="float: left; width: 25%;">
     <strong>ECON-288 Game Theory</strong> <br/>
     Undergraduate, 2023 Spring <br/>
     <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
