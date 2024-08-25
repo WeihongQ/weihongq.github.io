@@ -7,10 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-**## Indiana University**
-###  INFO-369  
-**INFO-369**
-
-**Role:** Associate Instructor  <br />
-<span style="color: grey">some Associate Instructor </span>.  <br />
-Description: Performance Analysis
+###  Indiana University
+**INFO-369 Performance Analytisc**
+Undergraduate, 2024 Fall
+<span style="color: grey">Associate Instructor </span>  <br />
