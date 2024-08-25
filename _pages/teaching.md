@@ -28,6 +28,21 @@ nav_order: 3
 ### University of Rochester
 <div style="overflow: auto; margin-bottom: 30px; display: flex;">
   <div style="width: 35%; text-align: left;">
+    <img src="/assets/img/teaching/psc-209.jpg" alt="Figure" style="max-width: 40%; height: auto;">
+  </div>
+
+  <div style="width: 60%; display: flex; align-items: center;">
+    <div style="border-left: 2px solid grey; height: 15vh; margin-right: 42px;"></div>
+    <div>
+      <strong>PSC-209 The Politics of Punishment </strong> <br/>
+      Undergraduate, 2023 Fall <br/>
+      <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
+    </div>
+  </div>
+</div>
+
+<div style="overflow: auto; margin-bottom: 30px; display: flex;">
+  <div style="width: 35%; text-align: left;">
     <img src="/assets/img/teaching/econ-288.jpg" alt="Figure" style="max-width: 40%; height: auto;">
   </div>
 
@@ -36,6 +51,21 @@ nav_order: 3
     <div>
       <strong>ECON-288 Game Theory</strong> <br/>
       Undergraduate, 2023 Spring <br/>
+      <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
+    </div>
+  </div>
+</div>
+
+<div style="overflow: auto; margin-bottom: 30px; display: flex;">
+  <div style="width: 35%; text-align: left;">
+    <img src="/assets/img/teaching/psc-273.jpg" alt="Figure" style="max-width: 40%; height: auto;">
+  </div>
+
+  <div style="width: 60%; display: flex; align-items: center;">
+    <div style="border-left: 2px solid grey; height: 15vh; margin-right: 42px;"></div>
+    <div>
+      <strong>PSC-209 The Politics of Terrorism </strong> <br/>
+      Undergraduate, 2022 Fall <br/>
       <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
     </div>
   </div>
