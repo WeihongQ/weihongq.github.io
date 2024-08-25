@@ -28,14 +28,15 @@ Graduate, 2021 Fall <br/>
 <br/>
 
 
+
 <div style="overflow: auto;">
-  <div style="float: center; width: 60%;">
+  <div style="float: left; width: 35%; text-align: left;">
+    <img src="/assets/img/teaching/info-369.jpg" alt="Figure" style="max-width: 40%; height: auto;">
+  </div>
+  
+  <div style="float: right; width: 60%;">
     <strong>INFO-369 Performance Analytics</strong> <br/>
     Undergraduate, 2024 Fall <br/>
     <span style="color: grey; font-weight: bold;">Associate Instructor</span> <br/>
-  </div>
-  
-  <div style="float: left; width: 35%; text-align: right;">
-    <img src="/assets/img/teaching/info-369.jpg" alt="Figure" style="max-width: 50%; height: auto;">
   </div>
 </div>
