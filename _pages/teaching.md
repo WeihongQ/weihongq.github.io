@@ -43,7 +43,7 @@ Graduate, 2021 Fall <br/>
 
 
 <div style="overflow: auto;">
-  <div style="float: center; width: 35%; text-align: center;">
+  <div style="float: center; width: 35%; text-align: right;">
     <img src="/assets/img/teaching/info-369.jpg" alt="Figure" style="max-width: 40%; height: auto;">
   </div>
   
