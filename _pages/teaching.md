@@ -14,7 +14,7 @@ nav_order: 3
   </div>
 
   <div style="width: 60%; display: flex; align-items: center;">
-    <div style="border-left: 2px solid grey; height: 15vh; margin-right: 25px;"></div>
+    <div style="border-left: 2px solid grey; height: 15vh; margin-right: 40px;"></div>
     <div>
       <strong>INFO-369 Performance Analytics</strong> <br/>
       Undergraduate, 2024 Fall <br/>
