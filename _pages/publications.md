@@ -12,6 +12,8 @@ nav_order: 2
 
 #### Pre-prints and Working Papers
 
+- Representation Bias in Political Sample Simulations with Large Language Models. Weihong Qi, Hanjia Lyu and Jiebo Luo.[[arxiv](https://arxiv.org/pdf/2407.11409)]
+
 - Revisiting the Resource Curse in the Age of Energy Transition: Cobalt Reserves and Conflict in Africa. Weihong Qi. [[arxiv](https://arxiv.org/abs/2404.17713)]
 
 - Beyond Sentiment: Leveraging Topic Metrics for Political Stance Classification. Weihong Qi. [[arxiv](https://arxiv.org/pdf/2310.15429)]

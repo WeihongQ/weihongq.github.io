@@ -64,7 +64,7 @@ nav_order: 3
   <div style="width: 60%; display: flex; align-items: center;">
     <div style="border-left: 2px solid grey; height: 15vh; margin-right: 42px;"></div>
     <div>
-      <strong>PSC-209 The Politics of Terrorism </strong> <br/>
+      <strong>PSC-273 The Politics of Terrorism </strong> <br/>
       Undergraduate, 2022 Fall <br/>
       <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
     </div>
