@@ -24,16 +24,17 @@ nav_order: 3
 
 ### University of Rochester
 <div style="overflow: auto; margin-bottom: 30px;">
-  <div style="float: right; width: 35%; text-align: right; margin-right: 380px;">
+  <div style="float: left; width: 35%; text-align: left;">
     <img src="/assets/img/teaching/econ-288.jpg" alt="Figure" style="max-width: 40%; height: auto;">
   </div>
   
-  <div style="float: left; width: 25%;">
+  <div style="float: right; width: 60%;">
     <strong>ECON-288 Game Theory</strong> <br/>
     Undergraduate, 2023 Spring <br/>
     <span style="color: grey; font-weight: bold;">Teaching Assistant</span> <br/>
   </div>
 </div>
+
 
 <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: left; width: 35%; text-align: left;">
