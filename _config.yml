@@ -245,8 +245,8 @@ display_tags: ["formatting", "images", "links", "math", "code"] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhang]
-  first_name: [Songyang]
+  last_name: [Qi]
+  first_name: [Weihong]
 
   style: apa
   locale: en
