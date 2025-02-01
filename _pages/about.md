@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
 
@@ -36,4 +36,4 @@ My research covers three areas: (1) the collective behavior, decision-making, an
 </div>
 
 
-Prior to joining IU, I obtained a Ph.D. in Political Science and an M.S. in Data Science from the [University of Rochester](https://www.rochester.edu/), where my M.S. study was supervised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also obtained my M.A. in Public Policy from the [University of Chicago](https://harris.uchicago.edu/) and B.A. in Economics from [Wuhan University](https://www.whu.edu.cn/).
+Prior to joining IU, I obtained a Ph.D. in Political Science and an M.S. in Data Science from the [University of Rochester](https://www.rochester.edu/). I also obtained my M.A. in Public Policy from the [University of Chicago](https://harris.uchicago.edu/) and B.A. in Economics from [Wuhan University](https://www.whu.edu.cn/).
