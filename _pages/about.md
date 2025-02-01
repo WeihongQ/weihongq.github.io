@@ -31,4 +31,4 @@ My research covers three areas: (1) the collective behavior, decision-making, an
 - Improve AI-human alignment by deepening the understanding of human belief systems using large-scale data.
 - Identify and investigate strategies to mitigate potential biases in LLMs.
 
-Prior to joining IU, I obtained a Ph.D. in Political Science and an M.S. in Data Science from the [University of Rochester](https://www.rochester.edu/), where my M.S. study was supervised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also obtained my M.A. in Public Policy from the [University of Chicago](https://www.uchicago.edu/en) and B.A. in Economics from [Wuhan University](https://www.whu.edu.cn/).
+Prior to joining IU, I obtained a Ph.D. in Political Science and an M.S. in Data Science from the [University of Rochester](https://www.rochester.edu/), where my M.S. study was supervised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also obtained my M.A. in Public Policy from the [University of Chicago](https://harris.uchicago.edu/) and B.A. in Economics from [Wuhan University](https://www.whu.edu.cn/).
