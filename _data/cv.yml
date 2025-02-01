@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Informatics
+    - title: Ph.D. in Informatics
       institution: Indiana University, Bloomington
       year: 2024 - present
       description:
@@ -9,12 +9,26 @@
         - "Major Track: Complex Networks and Systems"
         - "Minor: Computer Science"
 
-    - title: PhD in Political Science
+    - title: Ph.D. in Political Science
       institution: University of Rochester
       year: 2019 - 2024
       description:
         - "Advisors: <a href='https://www.sas.rochester.edu/psc/stone/'>Prof. Randall Stone</a>, <a href='https://www.rochester.edu/college/faculty/alexander_lee/'>Prof. Alexander Lee</a>, <a href='https://www.andersonfrey.com/'>Prof. Anderson Frey</a> "
         - "Research Fields: International Relations, Comparative Politics, Computational Social Science"
+    
+    - title: M.S. in Data Science
+      institution: University of Rochester
+      year: 2022 - 2024
+
+    - title: M.A. in Public Policy
+      institution: University of Chicago
+      year: 2017 - 2018
+
+    - title: B.A. in Economics
+      institution: Wuhan University
+      year: 2013 - 2017
+      description:
+        - "Minor: Mathematics and Applied Mathematics"
 
 - title: Work Experience
   type: time_table
