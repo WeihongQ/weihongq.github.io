@@ -34,8 +34,14 @@
   ],
   "services": [
     {
-      "title": "Conference Reviewer",
-      "description": "NAACL'25, ICME'24"
+      "name": "Conference Reviewer",
+      "icon": "fa-solid fa-laptop",
+      "reference": "WebSci'25, NAACL'25, ICME'24, ASONAM'24"
+    },
+    {
+      "name": "Journal Reviewer",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Political Analysis"
     }
   ]
 }
