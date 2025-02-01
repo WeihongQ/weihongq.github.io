@@ -1342,3 +1342,10 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+
+// customized features by Weihong
+
+.indented-list {
+  padding-left: 2rem; /* Adjust indentation */
+}
