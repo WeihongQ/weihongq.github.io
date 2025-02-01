@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 ---
 
@@ -27,7 +27,7 @@ I am a Ph.D. student in Informatics at the [Luddy School of Informatics, Computi
 
 My research covers three areas: (1) the collective behavior, decision-making, and collaboration of AI agents; (2) AI-human alignment and (3) computational social science with large language models (LLMs). I aim to develop AI systems that are safe, fair, and aligned with human social values by leveraging computer science, social science, statistical methods and large-scale data. My recent works focus on:
 
-<div style="max-width: 700px; margin-left: 15em;">
+<div style="max-width: 700px; margin-left: 17em;">
   <ul>
     <li>Enhance the AI-human alignment in collective decision making and collaboration.</li>
     <li>Improve AI-human alignment by deepening the understanding of human belief systems using large-scale data.</li>
