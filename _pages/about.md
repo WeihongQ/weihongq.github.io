@@ -6,7 +6,8 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: "<img src='weihong_photo.jpeg' width='150' height='150' />"
+  image: weihong_photo.jpeg
+  image_width: 150px
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1015 E 11th St</p>
