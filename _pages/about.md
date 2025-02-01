@@ -6,12 +6,11 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: assets/weihong_photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1015 E 11th St</p>
+    <p>Bloomington, IN 47408</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,8 +22,13 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. student in Informatics at the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/about/index.html) at [Indiana University, Bloomington (IU)](https://www.iu.edu/index.html), under the supervision of [Prof. Jisun An](https://jisun.me/) and [Prof. Haewoon Kwak](https://haewoon.io/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research covers three areas: (1) the collective behavior, decision-making, and collaboration of AI agents; (2) AI-human alignment and (3) computational social science with large language models (LLMs). I aim to develop AI systems that are safe, fair, and aligned with human social values by leveraging computer science, social science, statistical methods and large-scale data. My recent works focus on:
+
+- Enhance the AI-human alignment in collective decision making and collaboration. 
+- Improve AI-human alignment by deepening the understanding of human belief systems using large-scale data.
+- Identify and investigate strategies to mitigate potential biases in LLMs.
+
+Prior to joining IU, I obtained a Ph.D. in Political Science and an M.S. in Data Science from the [University of Rochester](https://www.rochester.edu/), where my M.S. study was supervised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I also obtained my M.A. in Public Policy from the [University of Chicago](https://www.uchicago.edu/en) and B.A. in Economics from [Wuhan University](https://www.whu.edu.cn/).
