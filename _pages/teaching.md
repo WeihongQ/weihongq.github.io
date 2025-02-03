@@ -68,7 +68,10 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            <ul>
+              <li>Guided first-year Ph.D. students through  concepts and tools for causal inference in non-experimental contexts.</li>
+              <li>Held weekly review sessions covering the mathematical, statistical, and coding fundamentals.</li>
+            </ul>
           </div>
         </div>
       </li>
