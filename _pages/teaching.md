@@ -92,7 +92,7 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            Mentored over 90 undergraduate students in understanding, analyzing, and applying game theory models during recitation sessions and regular office hours.
           </div>
         </div>
       </li>
@@ -113,7 +113,10 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            <ul>
+              <li>Organized and facilitated discussion sessions on terrorism research papers twice per week.</li>
+              <li>Mentored over 30 undergraduate students in learning data analysis tools for their quantitative projects. </li>
+            </ul>
           </div>
         </div>
       </li>
@@ -134,7 +137,7 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            Mentored over 30 undergraduate students in understanding law enforcement research literature and research methods through weekly office hours and feedback on their response papers.
           </div>
         </div>
       </li>
