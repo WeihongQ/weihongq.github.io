@@ -52,8 +52,6 @@ nav_order: 6
 </div>
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
 <h3 style="color: #00205B;" id="iu">University of Rochester</h3>
 
