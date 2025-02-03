@@ -22,6 +22,30 @@ announcements:
 
 ---
 
+<style>
+  .text-container {
+    max-width: 700px;
+    margin-left: 19em; /* Keeps the desktop layout */
+    padding: 10px;
+  }
+
+  @media (max-width: 768px) { /* Tablet and smaller screens */
+    .text-container {
+      max-width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  @media (max-width: 480px) { /* Mobile screens */
+    .text-container {
+      max-width: 95%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+</style>
+
 
 I am a Ph.D. student in Informatics at the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/about/index.html) at [Indiana University, Bloomington (IU)](https://www.iu.edu/index.html), under the supervision of [Prof. Jisun An](https://jisun.me/) and [Prof. Haewoon Kwak](https://haewoon.github.io/). 
 
