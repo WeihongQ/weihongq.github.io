@@ -142,7 +142,7 @@ nav_order: 6
         <div class="row">
           <div class="col-sm-9">
             <ul>
-            <li> Mentored over 30 undergraduate students in understanding law enforcement research literature and research methods through weekly office hours and feedback on their response papers.
+            <li> Mentored over 30 undergraduate students in understanding law enforcement research literature and research methods through weekly office hours and feedback on their response papers. </li>
             </ul>
           </div>
         </div>
