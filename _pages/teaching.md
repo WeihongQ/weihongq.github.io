@@ -95,7 +95,7 @@ nav_order: 6
         <div class="row">
           <div class="col-sm-9">
           <ul>
-            <li> Mentored over 90 undergraduate students in understanding, analyzing, and applying game theory models during recitation sessions and regular office hours.
+            <li> Mentored over 90 undergraduate students in understanding, analyzing, and applying game theory models during recitation sessions and regular office hours. </li>
           </ul>
           </div>
         </div>
