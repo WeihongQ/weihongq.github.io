@@ -22,7 +22,9 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            <ul>
+              <li> Mentored over 30 undergraduate students on data exploration and visualization projects.
+            </ul>
           </div>
         </div>
       </li>
@@ -43,7 +45,10 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
+            <ul>
+            <li> Led three technical tutorials to teach undergraduate students on commonly used Python libraries and code for performance analysis.
+            <li> Mentored undergraduate students in exploring and implementing projects focused on analyzing real-world performance data.
+            </ul>
           </div>
         </div>
       </li>
@@ -92,7 +97,9 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Mentored over 90 undergraduate students in understanding, analyzing, and applying game theory models during recitation sessions and regular office hours.
+          <ul>
+            <li> Mentored over 90 undergraduate students in understanding, analyzing, and applying game theory models during recitation sessions and regular office hours.
+          </ul>
           </div>
         </div>
       </li>
@@ -137,7 +144,9 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Mentored over 30 undergraduate students in understanding law enforcement research literature and research methods through weekly office hours and feedback on their response papers.
+            <ul>
+            <li> Mentored over 30 undergraduate students in understanding law enforcement research literature and research methods through weekly office hours and feedback on their response papers.
+            </ul>
           </div>
         </div>
       </li>
