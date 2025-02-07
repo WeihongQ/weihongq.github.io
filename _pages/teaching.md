@@ -22,7 +22,6 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Description here.
           </div>
         </div>
       </li>
@@ -44,8 +43,8 @@ nav_order: 6
         <div class="row">
           <div class="col-sm-9">
             <ul>
-            <li> Led three technical tutorials to teach undergraduate students on commonly used Python libraries and code for performance analysis.
-            <li> Mentored undergraduate students in exploring and implementing projects focused on analyzing real-world performance data.
+            <li> Led three technical tutorials to teach undergraduate students on commonly used Python libraries and code for performance analysis. </li>
+            <li> Mentored undergraduate students in exploring and implementing projects focused on analyzing real-world performance data.</li>
             </ul>
           </div>
         </div>
