@@ -22,9 +22,7 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            <ul>
-              <li> Mentored over 30 undergraduate students on data exploration and visualization projects.
-            </ul>
+            Description here.
           </div>
         </div>
       </li>
